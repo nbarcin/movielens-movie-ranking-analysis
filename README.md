@@ -135,11 +135,3 @@ The system identifies:
 - Add personalized movie recommendations
 - Implement deep learning recommendation models
 
----
-
-# 👩‍💻 Author
-
-Nihal Barcin
-
-Master’s Degree in Computer Science  
-Cybersecurity & Data Science Enthusiast
